@@ -1,20 +1,35 @@
-<div align="center">
-  
-  # 👋 Hello, I'm Jonas Souza ⚡💻
-  
-  **Electrical Engineer | Embedded Systems Developer**
-  
-</div>
+# 👋 Hello, I'm **Jonas Souza** ⚡💻
 
-<div align="center">
-  
-🎓 I am an Electrical Engineer from the Federal Institute of Bahia (IFBA), specializing in **Electronic Engineering, Automation & Control, and Electrotechnics**.
+`Electrical Engineer` | `Embedded Systems Developer`
 
-🚀 Currently, I'm developing practical, real-world solutions with C and microcontrollers as part of the **Embedded Systems Residency at CEPEDI**.
+🎓 I am an Electrical Engineer, graduated from the Federal Institute of Bahia (IFBA) - Campus Vitória da Conquista, with a focus on **Electronic Engineering, Automation & Control**, and **Electrotechnics**.
 
-🧠 Driven by a passion for continuous learning, I actively study and build projects in **Statistics, Machine Learning, Computer Vision, and PID Control**.
+🚀 Currently, I am part of the **Embedded Systems Residency at CEPEDI**, where I develop practical solutions using the C language on microcontrollers to solve real-world challenges.
 
-</div>
+🧠 Driven by a passion for continuous learning, I dedicate my time to studying **Statistics, Machine Learning, Convolutional Neural Networks, Computer Vision**, and **PID Control**. I actively work on personal projects to apply these concepts and build a robust portfolio.
+
+### 🌐 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/jonassouza87/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jonassouza87-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/JonasSouza871" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-JonasSouza871-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:jonasssouza871@hotmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/jonassouza872" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-jonassouza872-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="http://lattes.cnpq.br/2960779889836129" target="_blank">
+    <img alt="Currículo Lattes" src="https://img.shields.io/badge/Lattes-CNPq-1f4e79?style=for-the-badge&logo=academia&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -108,30 +123,4 @@ Here are some of the technologies I work with:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JonasSouza871&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats Jonas Souza" height="190"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasSouza871&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=javascript,jupyter%20notebook" alt="Top Languages Jonas Souza" height="190"/>
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonassouza87/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jonassouza87-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/JonasSouza871" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-JonasSouza871-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:jonasssouza871@hotmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/jonassouza872" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-jonassouza872-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="http://lattes.cnpq.br/2960779889836129" target="_blank">
-    <img alt="Currículo Lattes" src="https://img.shields.io/badge/Lattes-CNPq-1f4e79?style=for-the-badge&logo=academia&logoColor=white" />
-  </a>
 </p>
