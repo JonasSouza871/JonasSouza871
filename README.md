@@ -14,7 +14,7 @@ apply these concepts and build a robust portfolio.
 
 <div align="center">
     <h3>🌐 Connect with Me</h3>
-    <p>
+    <div>
         <!-- Kaggle -->
         <a href="https://www.kaggle.com/jonassouza872" target="_blank">
             <img 
@@ -23,7 +23,6 @@ apply these concepts and build a robust portfolio.
                 src="https://img.shields.io/badge/Kaggle-jonassouza872-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
             />
         </a>
-        &nbsp;&nbsp;
         <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/jonassouza87/" target="_blank">
             <img 
@@ -32,7 +31,6 @@ apply these concepts and build a robust portfolio.
                 src="https://img.shields.io/badge/LinkedIn-jonassouza87-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             />
         </a>
-        &nbsp;&nbsp;
         <!-- GitHub -->
         <a href="https://github.com/JonasSouza871" target="_blank">
             <img 
@@ -41,7 +39,6 @@ apply these concepts and build a robust portfolio.
                 src="https://img.shields.io/badge/GitHub-JonasSouza871-181717?style=for-the-badge&logo=github&logoColor=white"
             />
         </a>
-        &nbsp;&nbsp;
         <!-- Email Hotmail -->
         <a href="mailto:jonasssouza871@hotmail.com" target="_blank">
             <img 
@@ -50,7 +47,6 @@ apply these concepts and build a robust portfolio.
                 src="https://img.shields.io/badge/Email-jonasssouza871@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
             />
         </a>
-        &nbsp;&nbsp;
         <!-- Lattes -->
         <a href="http://lattes.cnpq.br/2960779889836129" target="_blank">
             <img 
@@ -59,7 +55,7 @@ apply these concepts and build a robust portfolio.
                 src="https://img.shields.io/badge/Lattes-CNPq-1f4e79?style=for-the-badge&logo=academia&logoColor=white"
             />
         </a>
-    </p>
+    </div>
 </div>
 
 
