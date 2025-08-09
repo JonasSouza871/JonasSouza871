@@ -19,7 +19,7 @@
   </a>
   &nbsp;
   <a href="mailto:jonasssouza871@hotmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-jonasssouza871@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.kaggle.com/jonassouza872" target="_blank">
@@ -124,3 +124,4 @@ Here are some of the technologies I work with:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JonasSouza871&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats Jonas Souza" height="190"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasSouza871&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=javascript,jupyter%20notebook" alt="Top Languages Jonas Souza" height="190"/>
 </p>
+
