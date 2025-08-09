@@ -6,6 +6,8 @@
 
 🚀 Currently, I am part of the **Embedded Systems Residency at CEPEDI**, where I develop practical solutions using the C language on microcontrollers to solve real-world challenges.
 
+🔬 I am a researcher at the **Interdisciplinary Research Group in Innovative Technologies (GITI-IFBA)** and also a columnist for **Portal INQ.IFBA** ([https://inq.conquista.ifba.edu.br/v1/?s=jonas+souza](https://inq.conquista.ifba.edu.br/v1/?s=jonas+souza)).
+
 🧠 Driven by a passion for continuous learning, I dedicate my time to studying **Statistics, Machine Learning, Convolutional Neural Networks, Computer Vision**, and **PID Control**. I actively work on personal projects to apply these concepts and build a robust portfolio.
 
 ### 🌐 Connect with Me
@@ -124,4 +126,5 @@ Here are some of the technologies I work with:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JonasSouza871&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats Jonas Souza" height="190"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasSouza871&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=javascript,jupyter%20notebook" alt="Top Languages Jonas Souza" height="190"/>
 </p>
+
 
